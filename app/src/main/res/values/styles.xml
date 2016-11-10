@@ -39,6 +39,11 @@
         <item name="android:textStyle">bold</item>
     </style>
 
+    <style name="SplashTheme" parent="AppTheme">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:windowIsTranslucent">false</item>
+    </style>
+
 
     <style name="BlueTheme" parent="CustomTransparent">
         <item name="colorPrimary">@color/colorBluePrimary</item>

@@ -5,7 +5,7 @@ android {
     buildToolsVersion "24.0.1"
 
     defaultConfig {
-        applicationId "cn.ucai.weiying"
+        applicationId "com.zcy.ghost.vivideo"
         minSdkVersion 19
         targetSdkVersion 24
         versionCode 1
